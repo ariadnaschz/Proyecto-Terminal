@@ -1,0 +1,16 @@
+{
+  "name": "SageMath Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  },
+  "forwardPorts": [8888],
+  "postCreateCommand": "jupyter lab --ip=0.0.0.0 --no-browser --allow-root"
+}
