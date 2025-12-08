@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile"
   },
   "forwardPorts": [8888],
-  "postCreateCommand": "sage-jupyter",
+  "postAttachCommand": "sage -n jupyterlab --ip=0.0.0.0 --no-browser",
   "customizations": {
     "vscode": {
       "extensions": [
