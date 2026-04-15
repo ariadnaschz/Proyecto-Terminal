@@ -1,0 +1,15 @@
+{
+  "name": "SageMath Jupyter",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [8888],
+  "postAttachCommand": "sage -n jupyterlab --ip=0.0.0.0 --no-browser",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}

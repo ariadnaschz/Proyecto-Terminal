@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Proyecto Terminal: Dinámica de la infección por VIH en los ganglios linfáticos
+=======
+# Proyecto-Terminal
+
+[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ariadnaschz/Proyecto-Terminal?quickstart=1)
+
+Simulación del modelo de Simon Mukwembi y cálculo del número VIH(G) en distintas familias de gráficas.
+>>>>>>> 17c185f0ab0ff5317ea786621ad9616cf36a649b
 
 Este repositorio contiene la implementación computacional utilizada en el proyecto terminal (tesis) titulado: **“Dinámica de la infección por VIH en los ganglios linfáticos: un enfoque de teoría de gráficas”**.
 
