@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 # Proyecto Terminal: Dinámica de la infección por VIH en los ganglios linfáticos
-=======
-# Proyecto-Terminal
-
-[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ariadnaschz/Proyecto-Terminal?quickstart=1)
-
-Simulación del modelo de Simon Mukwembi y cálculo del número VIH(G) en distintas familias de gráficas.
->>>>>>> 17c185f0ab0ff5317ea786621ad9616cf36a649b
 
 Este repositorio contiene la implementación computacional utilizada en el proyecto terminal (tesis) titulado: **“Dinámica de la infección por VIH en los ganglios linfáticos: un enfoque de teoría de gráficas”**.
 
@@ -15,7 +7,7 @@ El objetivo principal es simular el modelo propuesto por Simon Mukwembi para est
 ## Documentación del Proyecto
 Para una comprensión profunda de la metodología, el marco teórico y el análisis de resultados, puedes consultar el reporte final de investigación:
 
-* [**Descargar Proyecto Terminal (PDF)**](..\docs\Proyecto-Terminal.pdf) *(Asegúrate de subir el PDF y poner la ruta correcta aquí)*
+* [**Descargar Proyecto Terminal (PDF)**](C:\Users\Ariadna\OneDrive\Escritorio\Proyecto-Terminal\docs\Proyecto-Terminal.pdff)
 
 ## Contenido del Repositorio
 El código está desarrollado en **Python / SageMath 9.8** e incluye:
