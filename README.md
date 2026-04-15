@@ -7,7 +7,7 @@ El objetivo principal es simular el modelo propuesto por Simon Mukwembi para est
 ## Documentación del Proyecto
 Para una comprensión profunda de la metodología, el marco teórico y el análisis de resultados, puedes consultar el reporte final de investigación:
 
-* [**Descargar Proyecto Terminal (PDF)**](C:\Users\Ariadna\OneDrive\Escritorio\Proyecto-Terminal\docs\Proyecto-Terminal.pdff)
+* [**Descargar Proyecto Terminal (PDF)**](docs/Proyecto-Terminal.pdf)
 
 ## Contenido del Repositorio
 El código está desarrollado en **Python / SageMath 9.8** e incluye:
