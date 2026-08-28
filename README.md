@@ -5,9 +5,11 @@ Este repositorio contiene la implementación computacional utilizada en el proye
 El objetivo principal es simular el modelo propuesto por Simon Mukwembi para estudiar la propagación del VIH en estructuras de tipo grafo y calcular el número $VIH(G)$, definido como el mínimo valor del parámetro de reemplazo $R$ para el cual toda configuración inicial conduce a la curación del sistema.
 
 ## Documentación del Proyecto
-Para una comprensión profunda de la metodología, el marco teórico y el análisis de resultados, puedes consultar el reporte final de investigación:
+Para una comprensión profunda de la metodología, el marco teórico y el análisis de resultados, puedes consultar el reporte final de investigación o puedes ver la presentación de este en los siguientes enlaces:
 
-* [**Descargar Proyecto Terminal (PDF)**](docs/Proyecto-Terminal.pdf)
+| 🇲🇽 Reporte Final  | 🇲🇽 Presentación en Español | 🇺🇸 English Walkthrough |
+| :---: | :---: | :---: |
+| [⬇️ Descargar Proyecto Terminal (PDF)](docs/Proyecto-Terminal.pdf) | [▶️ Ver video explicativo](https://www.youtube.com/live/1Tb7hVar3Lw?si=1Ky4drqSgEGtBJm3) | [▶️ Watch the presentation](https://youtu.be/R5kbjWhUaSI?si=N5a42qdvqvDrSB0O) |
 
 ## Contenido del Repositorio
 El código está desarrollado en **Python / SageMath 9.8** e incluye:
